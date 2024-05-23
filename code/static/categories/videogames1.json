@@ -1,0 +1,41 @@
+{
+    "id": 123,
+    "title": "Video Game Trivia",
+    "the_question": [
+    {
+    "id": 1,
+    "answer": "Mario",
+    "question": "Who is the main character in the Super Mario Bros. franchise?",
+    "value": 100,
+    "category_id": 456
+    },
+    {
+    "id": 2,
+    "answer": "Master Chief",
+    "question": "Who is the main character in the Halo series?",
+    "value": 200,
+    "category_id": 456
+    },
+    {
+    "id": 3,
+    "answer": "The Legend of Zelda: Ocarina of Time",
+    "question": "Which game is often considered one of the greatest of all time and was released for the Nintendo 64 in 1998?",
+    "value": 300,
+    "category_id": 456
+    },
+    {
+    "id": 4,
+    "answer": "Xbox",
+    "question": "Which console was released by Microsoft in 2001?",
+    "value": 400,
+    "category_id": 456
+    },
+    {
+    "id": 5,
+    "answer": "Grand Theft Auto V",
+    "question": "Which game has sold the most copies of any single game in history, as of 2023?",
+    "value": 500,
+    "category_id": 456
+    }
+    ]
+    }

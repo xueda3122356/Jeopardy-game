@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jeopardy-462 Game</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+</body>
+
+    <div class="app">
+        <div class="start-screen">
+            <h1>Welcome to Jeopardy</h1>
+            <button class="start-button" onclick="startGame()">Start</button>
+        </div>
+            <header class="top-header">
+                <h1>Jeopardy</h1>
+                <p class="score">Current Score <span class="score-count"></span></p>
+            </header>
+        <div class="board"></div>
+        <div class="card-modal">
+            <div class="card-modal-inner">
+                <h2 class="clue-text"></h2>
+                <form>
+                    <input name="user-answer" type="text">
+                </form>
+                <div class="result">
+                    <p class="result_success">CORRECT</p>
+                    <p class="result_fail">INCORRECT</p>
+                    <p class="result_correct-answer">The correct answer is <span class="result_correct-answer-text"></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/static/app.js"></script>
+    <script>
+        function startGame() {
+            // Hide the start screen
+            document.querySelector(".start-screen").style.display = "none";
+            var audio = new Audio("/static/Sounds/JeopardyThemeSong.mp3");
+            audio.loop = true;
+            audio.play();
+            audio.volume = 0.5;
+            // Call the start function to start the game
+            start();
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+{
+    "id": 91,
+    "title": "Baking",
+    "the_question": [
+        {
+            "id": 1,
+            "question": "What is the term used to describe the process of cooking food in an oven using dry heat?",
+            "answer": "What is baking?",
+            "possibleAnswer1": "What is grilling?",
+            "possibleAnswer2": "What is frying?",
+            "possibleAnswer3": "What is boiling?",
+            "value": 100,
+            "category_id": 91
+        },
+        {
+            "id": 2,
+            "question": "What is the term used to describe a mixture of flour, fat, and water used to make a crust for pies, tarts, and quiches?",
+            "answer": "What is pastry?",
+            "possibleAnswer1": "What is dough?",
+            "possibleAnswer2": "What is batter?",
+            "possibleAnswer3": "What is frosting?",
+            "value": 200,
+            "category_id": 91
+        },
+        {
+            "id": 3,
+            "question": "What is the term used to describe the process of combining two or more ingredients together using a mixing tool or machine?",
+            "answer": "What is mixing?",
+            "possibleAnswer1": "What is kneading?",
+            "possibleAnswer2": "What is folding?",
+            "possibleAnswer3": "What is whisking?",
+            "value": 300,
+            "category_id": 91
+        },
+        {
+            "id": 4,
+            "question": "What is the term used to describe a substance, such as baking powder or yeast, that is added to dough or batter to make it rise?",
+            "answer": "What is a leavening agent?",
+            "possibleAnswer1": "What is a thickening agent?",
+            "possibleAnswer2": "What is a stabilizing agent?",
+            "possibleAnswer3": "What is a flavoring agent?",
+            "value": 400,
+            "category_id": 91
+        },
+        {
+            "id": 5,
+            "question": "What is the term used to describe the process of covering a cake with a layer of icing or frosting?",
+            "answer": "What is frosting?",
+            "possibleAnswer1": "What is baking?",
+            "possibleAnswer2": "What is whipping?",
+            "possibleAnswer3": "What is cooling?",
+            "value": 500,
+            "category_id": 91
+        }
+    ]
+}

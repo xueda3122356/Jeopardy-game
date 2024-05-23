@@ -1,0 +1,56 @@
+{
+    "id": 81239,
+    "title": "Random Category",
+    "the_question": [
+    {
+        "id": 1,
+        "question": "What is the capital of Uruguay?",
+        "answer": "Montevideo",
+        "possibleAnswer1" : "Buenos Aires",
+        "possibleAnswer2" : "Lima",
+        "possibleAnswer3" : "Asuncion",
+        "value": 100,
+        "category_id": 81239
+    },
+    {
+        "id": 2,
+        "question": "Which planet in our solar system has the most moons?",
+        "answer": "Jupiter",
+        "possibleAnswer1" : "Saturn",
+        "possibleAnswer2" : "Uranus",
+        "possibleAnswer3" : "Neptune",
+        "value": 200,
+        "category_id": 81239
+    },
+    {
+        "id": 3,
+        "question": "What is the smallest country in the world by land area?",
+        "answer": "Vatican City",
+        "possibleAnswer1" : "Monaco",
+        "possibleAnswer2" : "San Marino",
+        "possibleAnswer3" : "Nauru",
+        "value": 300,
+        "category_id": 81239
+    },
+    {
+        "id": 4,
+        "question": "What is the highest mountain in Africa?",
+        "answer": "Mount Kilimanjaro",
+        "possibleAnswer1" : "Mount Everest",
+        "possibleAnswer2" : "Mount McKinley",
+        "possibleAnswer3" : "Mount Aconcagua",
+        "value": 400,
+        "category_id": 81239
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the longest river in South America?",
+        "answer": "Amazon River",
+        "possibleAnswer1" : "Orinoco River",
+        "possibleAnswer2" : "Parana River",
+        "possibleAnswer3" : "Magdalena River",
+        "value": 500,
+        "category_id": 81239
+    }
+    ]
+}

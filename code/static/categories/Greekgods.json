@@ -1,0 +1,56 @@
+{
+    "id": 932,
+    "title": "Greek Gods",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "Who was the king of the gods, the god of the sky and thunder, and the ruler of the Olympian gods?",
+    "answer": "Zeus",
+    "possibleAnswer1" : "Apollo",
+    "possibleAnswer2" : "Ares",
+    "possibleAnswer3" : "Hades",
+    "value": 100,
+    "category_id": 932
+    },
+    {
+    "id": 2,
+    "question": "Who was the goddess of love, beauty, and fertility?",
+    "answer": "Aphrodite",
+    "possibleAnswer1" : "Artemis",
+    "possibleAnswer2" : "Hera",
+    "possibleAnswer3" : "Athena",
+    "value": 200,
+    "category_id": 932
+    },
+    {
+    "id": 3,
+    "question": "Who was the god of the sea, earthquakes, and horses?",
+    "answer": "Poseidon",
+    "possibleAnswer1" : "Hermes",
+    "possibleAnswer2" : "Dionysus",
+    "possibleAnswer3" : "Demeter",
+    "value": 300,
+    "category_id": 932
+    },
+    {
+    "id": 4,
+    "question": "Who was the god of wine, celebration, and ecstasy?",
+    "answer": "Dionysus",
+    "possibleAnswer1" : "Ares",
+    "possibleAnswer2" : "Apollo",
+    "possibleAnswer3" : "Hermes",
+    "value": 400,
+    "category_id": 932
+    },
+    {
+    "id": 5,
+    "question": "Who was the goddess of wisdom, warfare, and handicrafts?",
+    "answer": "Athena",
+    "possibleAnswer1" : "Demeter",
+    "possibleAnswer2" : "Hera",
+    "possibleAnswer3" : "Artemis",
+    "value": 500,
+    "category_id": 932
+    }
+    ]
+    }

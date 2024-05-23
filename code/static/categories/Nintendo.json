@@ -1,0 +1,56 @@
+{
+    "id": 9876,
+    "title": "Nintendo",
+    "the_question": [
+    {
+        "id": 1,
+        "question": "What is the name of the main character in the Legend of Zelda series?",
+        "answer": "Link",
+        "possibleAnswer1" : "Zelda",
+        "possibleAnswer2" : "Ganondorf",
+        "possibleAnswer3" : "Epona",
+        "value": 100,
+        "category_id": 9876
+    },
+    {
+        "id": 2,
+        "question": "In the Super Mario Bros. series, what is the name of Mario's brother?",
+        "answer": "Luigi",
+        "possibleAnswer1" : "Wario",
+        "possibleAnswer2" : "Yoshi",
+        "possibleAnswer3" : "Toad",
+        "value": 200,
+        "category_id": 9876
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the game in which players control characters called Inklings, who can transform into squids and swim through ink?",
+        "answer": "Splatoon",
+        "possibleAnswer1" : "Super Smash Bros.",
+        "possibleAnswer2" : "The Legend of Zelda: Breath of the Wild",
+        "possibleAnswer3" : "Super Mario Odyssey",
+        "value": 300,
+        "category_id": 9876
+    },
+    {
+        "id": 4,
+        "question": "What is the name of the iconic pink creature in the Kirby series?",
+        "answer": "Kirby",
+        "possibleAnswer1" : "Meta Knight",
+        "possibleAnswer2" : "King Dedede",
+        "possibleAnswer3" : "Waddle Dee",
+        "value": 400,
+        "category_id": 9876
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the popular racing game series featuring characters from the Mario universe?",
+        "answer": "Mario Kart",
+        "possibleAnswer1" : "F-Zero",
+        "possibleAnswer2" : "Wave Race",
+        "possibleAnswer3" : "Excitebike",
+        "value": 500,
+        "category_id": 9876
+    }
+    ]
+}

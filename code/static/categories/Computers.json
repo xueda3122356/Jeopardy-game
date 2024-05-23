@@ -1,0 +1,56 @@
+{
+    "id": 90,
+    "title": "Computers",
+    "the_question": [
+    {
+        "id": 1,
+        "question": "What is the basic unit of information in computing?",
+        "answer": "Bit",
+        "possibleAnswer1" : "Byte",
+        "possibleAnswer2" : "Megabyte",
+        "possibleAnswer3" : "Gigabyte",
+        "value": 100,
+        "category_id": 90
+    },
+    {
+        "id": 2,
+        "question": "What does CPU stand for?",
+        "answer": "Central Processing Unit",
+        "possibleAnswer1" : "Central Power Unit",
+        "possibleAnswer2" : "Control Processing Unit",
+        "possibleAnswer3" : "Computer Programming Unit",
+        "value": 200,
+        "category_id": 90
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the protocol used to transfer files over the internet?",
+        "answer": "FTP",
+        "possibleAnswer1" : "HTTP",
+        "possibleAnswer2" : "SMTP",
+        "possibleAnswer3" : "TCP/IP",
+        "value": 300,
+        "category_id": 90
+    },
+    {
+        "id": 4,
+        "question": "What is the name of the language used to create web pages?",
+        "answer": "HTML",
+        "possibleAnswer1" : "CSS",
+        "possibleAnswer2" : "JavaScript",
+        "possibleAnswer3" : "Python",
+        "value": 400,
+        "category_id": 90
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the operating system used on Macintosh computers?",
+        "answer": "MacOS",
+        "possibleAnswer1" : "Windows",
+        "possibleAnswer2" : "Linux",
+        "possibleAnswer3" : "iOS",
+        "value": 500,
+        "category_id": 90
+    }
+    ]
+}

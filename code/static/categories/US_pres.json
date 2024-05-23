@@ -1,0 +1,56 @@
+{
+    "id": 371,
+    "title": "US Presidents",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "Who was the first president of the United States?",
+    "answer": "George Washington",
+    "possibleAnswer1" : "John Adams",
+    "possibleAnswer2" : "Thomas Jefferson",
+    "possibleAnswer3" : "Abraham Lincoln",
+    "value": 100,
+    "category_id": 371
+    },
+    {
+    "id": 2,
+    "question": "Who was the 16th president of the United States, who is famous for leading the country through the Civil War?",
+    "answer": "Abraham Lincoln",
+    "possibleAnswer1" : "George Washington",
+    "possibleAnswer2" : "Thomas Jefferson",
+    "possibleAnswer3" : "John F. Kennedy",
+    "value": 200,
+    "category_id": 371
+    },
+    {
+    "id": 3,
+    "question": "Who was the only president to serve two non-consecutive terms?",
+    "answer": "Grover Cleveland",
+    "possibleAnswer1" : "Franklin D. Roosevelt",
+    "possibleAnswer2" : "John Adams",
+    "possibleAnswer3" : "Thomas Jefferson",
+    "value": 300,
+    "category_id": 371
+    },
+    {
+    "id": 4,
+    "question": "Who was the first president to be impeached by the House of Representatives?",
+    "answer": "Andrew Johnson",
+    "possibleAnswer1" : "Richard Nixon",
+    "possibleAnswer2" : "Bill Clinton",
+    "possibleAnswer3" : "Donald Trump",
+    "value": 400,
+    "category_id": 371
+    },
+    {
+    "id": 5,
+    "question": "Who was the 35th president of the United States, who is famous for his inspirational speeches and assassination in 1963?",
+    "answer": "John F. Kennedy",
+    "possibleAnswer1" : "Dwight D. Eisenhower",
+    "possibleAnswer2" : "Lyndon B. Johnson",
+    "possibleAnswer3" : "Harry S. Truman",
+    "value": 500,
+    "category_id": 371
+    }
+    ]
+    }

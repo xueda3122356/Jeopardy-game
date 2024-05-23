@@ -1,0 +1,56 @@
+{
+    "id": 430,
+    "title": "Books",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "What classic novel by Harper Lee features the character Atticus Finch?",
+    "answer": "To Kill a Mockingbird",
+    "possibleAnswer1" : "Pride and Prejudice",
+    "possibleAnswer2" : "The Great Gatsby",
+    "possibleAnswer3" : "Wuthering Heights",
+    "value": 100,
+    "category_id": 430
+    },
+    {
+    "id": 2,
+    "question": "What book series by J.K. Rowling follows the adventures of Harry Potter?",
+    "answer": "Harry Potter",
+    "possibleAnswer1" : "The Chronicles of Narnia",
+    "possibleAnswer2" : "The Hunger Games",
+    "possibleAnswer3" : "Divergent",
+    "value": 200,
+    "category_id": 430
+    },
+    {
+    "id": 3,
+    "question": "What 1953 novel by Ray Bradbury tells the story of a future where books are outlawed and 'firemen' burn any that are found?",
+    "answer": "Fahrenheit 451",
+    "possibleAnswer1" : "1984",
+    "possibleAnswer2" : "Brave New World",
+    "possibleAnswer3" : "Animal Farm",
+    "value": 300,
+    "category_id": 430
+    },
+    {
+    "id": 4,
+    "question": "What novel by Jane Austen tells the story of Elizabeth Bennet and her relationship with Mr. Darcy?",
+    "answer": "Pride and Prejudice",
+    "possibleAnswer1" : "Sense and Sensibility",
+    "possibleAnswer2" : "Emma",
+    "possibleAnswer3" : "Mansfield Park",
+    "value": 400,
+    "category_id": 430
+    },
+    {
+    "id": 5,
+    "question": "What novel by Margaret Atwood tells the story of Offred, a woman living in a dystopian future where women are treated as property?",
+    "answer": "The Handmaid's Tale",
+    "possibleAnswer1" : "The Testaments",
+    "possibleAnswer2" : "Alias Grace",
+    "possibleAnswer3" : "Cat's Eye",
+    "value": 500,
+    "category_id": 430
+    }
+    ]
+    }

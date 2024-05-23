@@ -1,0 +1,56 @@
+{
+    "id": 83457,
+    "title": "Basketball",
+    "the_question": [
+    {
+        "id": 1,
+        "question": "What is the diameter of a basketball hoop in inches?",
+        "answer": "18 inches",
+        "possibleAnswer1" : "16 inches",
+        "possibleAnswer2" : "20 inches",
+        "possibleAnswer3" : "22 inches",
+        "value": 100,
+        "category_id": 83457
+    },
+    {
+        "id": 2,
+        "question": "What is the name of the famous basketball player who won 6 NBA championships with the Chicago Bulls?",
+        "answer": "Michael Jordan",
+        "possibleAnswer1" : "Kobe Bryant",
+        "possibleAnswer2" : "LeBron James",
+        "possibleAnswer3" : "Shaquille O'Neal",
+        "value": 200,
+        "category_id": 83457
+    },
+    {
+        "id": 3,
+        "question": "What is the height of a regulation basketball hoop from the ground to the rim?",
+        "answer": "10 feet",
+        "possibleAnswer1" : "9 feet",
+        "possibleAnswer2" : "11 feet",
+        "possibleAnswer3" : "12 feet",
+        "value": 300,
+        "category_id": 83457
+    },
+    {
+        "id": 4,
+        "question": "What is the name of the famous basketball player who retired with the most points scored in NBA history?",
+        "answer": "Kareem Abdul-Jabbar",
+        "possibleAnswer1" : "Magic Johnson",
+        "possibleAnswer2" : "Larry Bird",
+        "possibleAnswer3" : "Wilt Chamberlain",
+        "value": 400,
+        "category_id": 83457
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the NBA team that has won the most championships?",
+        "answer": "Boston Celtics",
+        "possibleAnswer1" : "Los Angeles Lakers",
+        "possibleAnswer2" : "Chicago Bulls",
+        "possibleAnswer3" : "Golden State Warriors",
+        "value": 500,
+        "category_id": 83457
+    }
+    ]
+}

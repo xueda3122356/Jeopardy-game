@@ -1,0 +1,56 @@
+{
+    "id": 432,
+    "title": "Trees",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "Which tree is known for its bright orange and red fall colors, and is the state tree of several US states including Vermont?",
+    "answer": "Maple",
+    "possibleAnswer1" : "Oak",
+    "possibleAnswer2" : "Birch",
+    "possibleAnswer3" : "Pine",
+    "value": 100,
+    "category_id": 432
+    },
+    {
+    "id": 2,
+    "question": "Which tree is known for its long, slender leaves that turn golden yellow in the fall, and is often planted as a shade tree?",
+    "answer": "Aspen",
+    "possibleAnswer1" : "Willow",
+    "possibleAnswer2" : "Sycamore",
+    "possibleAnswer3" : "Dogwood",
+    "value": 200,
+    "category_id": 432
+    },
+    {
+    "id": 3,
+    "question": "Which tree produces the sweet, edible fruit known as an acorn?",
+    "answer": "Oak",
+    "possibleAnswer1" : "Pine",
+    "possibleAnswer2" : "Birch",
+    "possibleAnswer3" : "Maple",
+    "value": 300,
+    "category_id": 432
+    },
+    {
+    "id": 4,
+    "question": "Which tree is known for its soft, white bark and is often used for making paper and canoes?",
+    "answer": "Birch",
+    "possibleAnswer1" : "Aspen",
+    "possibleAnswer2" : "Cedar",
+    "possibleAnswer3" : "Oak",
+    "value": 400,
+    "category_id": 432
+    },
+    {
+    "id": 5,
+    "question": "Which tree is known for its tall, straight trunk and is often used for lumber and Christmas trees?",
+    "answer": "Pine",
+    "possibleAnswer1" : "Fir",
+    "possibleAnswer2" : "Spruce",
+    "possibleAnswer3" : "Redwood",
+    "value": 500,
+    "category_id": 432
+    }
+    ]
+    }

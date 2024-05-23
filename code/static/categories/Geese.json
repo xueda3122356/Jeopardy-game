@@ -1,0 +1,60 @@
+{
+    "id": 655,
+    "title": "Geese",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "What is a group of geese called?",
+    "answer": "A gaggle",
+    "possibleAnswer1" : "A flock",
+    "possibleAnswer2" : "A herd",
+    "possibleAnswer3" : "A pride",
+    "value": 100,
+    "category_id": 655
+    },
+    {
+    "id": 2,
+    "question": "Which species of geese are known for their distinctive black head and neck?",
+    "answer": "Canada Geese",
+    "possibleAnswer1" : "Snow Geese",
+    "possibleAnswer2" : "White-fronted Geese",
+    "possibleAnswer3" : "Brant Geese",
+    "value": 200,
+    "category_id": 655
+    },
+    {
+    "id": 3,
+    "question": "Which species of geese are known for their white plumage and are commonly kept as domesticated animals?",
+    "answer": "Chinese Geese",
+    "possibleAnswer1" : "Egyptian Geese",
+    "possibleAnswer2" : "Swan Geese",
+    "possibleAnswer3" : "Graylag Geese",
+    "value": 300,
+    "category_id": 655
+    },
+    {
+    "id": 4,
+    "question": "What is the term for the seasonal migration of geese from their breeding grounds in the summer to their wintering grounds in the fall?",
+    "answer": "Fall migration",
+    "possibleAnswer1" : "Spring migration",
+    "possibleAnswer2" : "Summer migration",
+    "possibleAnswer3" : "Winter migration",
+    "value": 400,
+    "category_id": 655
+    },
+    {
+    "id": 5,
+    "question": "Which species of geese are known for their distinctive dark plumage and are native to Europe and Asia?",
+    "answer": "Graylag Geese",
+    "possibleAnswer1" : "Swan Geese",
+    "possibleAnswer2" : "Barnacle Geese",
+    "possibleAnswer3" : "Red-breasted Geese",
+    "value": 500,
+    "category_id": 655
+    }
+    ]
+    }
+    
+    
+    
+    

@@ -1,0 +1,56 @@
+{
+    "id": 90,
+    "title": "The Gym",
+    "the_question": [
+    {
+        "id": 1,
+        "question": "What is the most important thing to do before starting an exercise program?",
+        "answer": "Consult your doctor",
+        "possibleAnswer1" : "Buy new workout clothes",
+        "possibleAnswer2" : "Set an unrealistic goal",
+        "possibleAnswer3" : "Skip warm-up",
+        "value": 100,
+        "category_id": 90
+    },
+    {
+        "id": 2,
+        "question": "What is the recommended amount of time to spend on cardiovascular exercise per week?",
+        "answer": "150 minutes",
+        "possibleAnswer1" : "30 minutes",
+        "possibleAnswer2" : "60 minutes",
+        "possibleAnswer3" : "90 minutes",
+        "value": 200,
+        "category_id": 90
+    },
+    {
+        "id": 3,
+        "question": "What is the recommended number of strength training exercises per session?",
+        "answer": "8-10",
+        "possibleAnswer1" : "2-4",
+        "possibleAnswer2" : "12-14",
+        "possibleAnswer3" : "16-18",
+        "value": 300,
+        "category_id": 90
+    },
+    {
+        "id": 4,
+        "question": "What should you do if you experience pain during an exercise?",
+        "answer": "Stop and rest",
+        "possibleAnswer1" : "Push through the pain",
+        "possibleAnswer2" : "Take painkillers",
+        "possibleAnswer3" : "Ignore it",
+        "value": 400,
+        "category_id": 90
+    },
+    {
+        "id": 5,
+        "question": "What is the most effective way to increase your strength?",
+        "answer": "Progressive overload",
+        "possibleAnswer1" : "Doing the same weight every time",
+        "possibleAnswer2" : "Doing more reps with lighter weights",
+        "possibleAnswer3" : "Avoiding strength training altogether",
+        "value": 500,
+        "category_id": 90
+    }
+    ]
+}

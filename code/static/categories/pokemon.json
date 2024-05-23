@@ -1,0 +1,56 @@
+{
+    "id": 90,
+    "title": "Pokemon",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "What is the name of the Pokemon mascot?",
+    "answer": "Pikachu",
+    "possibleAnswer1" : "Charmander",
+    "possibleAnswer2" : "Squirtle",
+    "possibleAnswer3" : "Bulbasaur",
+    "value": 100,
+    "category_id": 90
+    },
+    {
+    "id": 2,
+    "question": "Which Pokemon type is strong against Grass-type Pokemon?",
+    "answer": "Fire",
+    "possibleAnswer1" : "Water",
+    "possibleAnswer2" : "Electric",
+    "possibleAnswer3" : "Ice",
+    "value": 200,
+    "category_id": 90
+    },
+    {
+    "id": 3,
+    "question": "What is the name of the first Pokemon in the Pokedex?",
+    "answer": "Bulbasaur",
+    "possibleAnswer1" : "Charmander",
+    "possibleAnswer2" : "Squirtle",
+    "possibleAnswer3" : "Pikachu",
+    "value": 300,
+    "category_id": 90
+    },
+    {
+    "id": 4,
+    "question": "Which Pokemon game introduced the Fairy type?",
+    "answer": "Pokemon X and Y",
+    "possibleAnswer1" : "Pokemon Black and White",
+    "possibleAnswer2" : "Pokemon Sun and Moon",
+    "possibleAnswer3" : "Pokemon Omega Ruby and Alpha Sapphire",
+    "value": 400,
+    "category_id": 90
+    },
+    {
+    "id": 5,
+    "question": "What is the name of the legendary Pokemon that represents time?",
+    "answer": "Dialga",
+    "possibleAnswer1" : "Palkia",
+    "possibleAnswer2" : "Giratina",
+    "possibleAnswer3" : "Arceus",
+    "value": 500,
+    "category_id": 90
+    }
+    ]
+    }

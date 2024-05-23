@@ -1,0 +1,60 @@
+{
+    "id": 89,
+    "title": "Video Games",
+    "the_question": [
+    {
+    "id": 1,
+    "question": "What is the best-selling video game of all time?",
+    "answer": "Minecraft",
+    "possibleAnswer1" : "Tetris",
+    "possibleAnswer2" : "Grand Theft Auto V",
+    "possibleAnswer3" : "Wii Sports",
+    "value": 100,
+    "category_id": 89
+    },
+    {
+    "id": 2,
+    "question": "Which game features a character named Link?",
+    "answer": "The Legend of Zelda",
+    "possibleAnswer1" : "Super Mario Bros.",
+    "possibleAnswer2" : "Sonic the Hedgehog",
+    "possibleAnswer3" : "Donkey Kong",
+    "value": 200,
+    "category_id": 89
+    },
+    {
+    "id": 3,
+    "question": "What is the name of the main character in the game series Metal Gear Solid?",
+    "answer": "Solid Snake",
+    "possibleAnswer1" : "Liquid Snake",
+    "possibleAnswer2" : "Big Boss",
+    "possibleAnswer3" : "Gray Fox",
+    "value": 300,
+    "category_id": 89
+    },
+    {
+    "id": 4,
+    "question": "In what game can you find the character Master Chief?",
+    "answer": "Halo",
+    "possibleAnswer1" : "Call of Duty",
+    "possibleAnswer2" : "Battlefield",
+    "possibleAnswer3" : "Destiny",
+    "value": 400,
+    "category_id": 89
+    },
+    {
+    "id": 5,
+    "question": "What is the highest-grossing video game franchise of all time?",
+    "answer": "Pokémon",
+    "possibleAnswer1" : "Mario",
+    "possibleAnswer2" : "Call of Duty",
+    "possibleAnswer3" : "Grand Theft Auto",
+    "value": 500,
+    "category_id": 89
+    }
+    ]
+    }
+    
+    
+    
+    

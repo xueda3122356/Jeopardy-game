@@ -1,0 +1,56 @@
+{
+    "id": 90,
+    "title": "Eggs",
+    "the_question": [
+        {
+            "id": 1,
+            "question": "What is the term used to describe an egg that has been cooked in boiling water with the shell still intact?",
+            "answer": "What is a boiled egg?",
+            "possibleAnswer1": "What is a fried egg?",
+            "possibleAnswer2": "What is a scrambled egg?",
+            "possibleAnswer3": "What is a poached egg?",
+            "value": 100,
+            "category_id": 90
+        },
+        {
+            "id": 2,
+            "question": "What is the term used to describe an egg that has been cooked in a skillet without its shell?",
+            "answer": "What is a fried egg?",
+            "possibleAnswer1": "What is a boiled egg?",
+            "possibleAnswer2": "What is a scrambled egg?",
+            "possibleAnswer3": "What is a poached egg?",
+            "value": 200,
+            "category_id": 90
+        },
+        {
+            "id": 3,
+            "question": "What is the term used to describe an egg that has been beaten and cooked without its shell?",
+            "answer": "What is a scrambled egg?",
+            "possibleAnswer1": "What is a boiled egg?",
+            "possibleAnswer2": "What is a fried egg?",
+            "possibleAnswer3": "What is a poached egg?",
+            "value": 300,
+            "category_id": 90
+        },
+        {
+            "id": 4,
+            "question": "What is the term used to describe an egg that has been cooked in simmering water without its shell?",
+            "answer": "What is a poached egg?",
+            "possibleAnswer1": "What is a boiled egg?",
+            "possibleAnswer2": "What is a fried egg?",
+            "possibleAnswer3": "What is a scrambled egg?",
+            "value": 400,
+            "category_id": 90
+        },
+        {
+            "id": 5,
+            "question": "What is the term used to describe an egg that has been cooked in a mixture of beaten eggs, milk or cream, and sometimes other ingredients?",
+            "answer": "What is an omelet?",
+            "possibleAnswer1": "What is a boiled egg?",
+            "possibleAnswer2": "What is a fried egg?",
+            "possibleAnswer3": "What is a poached egg?",
+            "value": 500,
+            "category_id": 90
+        }
+    ]
+}

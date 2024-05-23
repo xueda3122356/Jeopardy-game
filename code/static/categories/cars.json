@@ -1,0 +1,56 @@
+{
+    "id": 13579,
+    "title": "Cars",
+    "the_question": [
+    {
+        "id": 1,
+        "question": "What is the name of the main character in Cars?",
+        "answer": "Lightning McQueen",
+        "possibleAnswer1" : "Mater",
+        "possibleAnswer2" : "Sally",
+        "possibleAnswer3" : "Doc Hudson",
+        "value": 100,
+        "category_id": 13579
+    },
+    {
+        "id": 2,
+        "question": "What is the name of the town where most of the Cars movies take place?",
+        "answer": "Radiator Springs",
+        "possibleAnswer1" : "Carburetor County",
+        "possibleAnswer2" : "Oil Can Alley",
+        "possibleAnswer3" : "Piston Peak",
+        "value": 200,
+        "category_id": 13579
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the villainous car in Cars 2?",
+        "answer": "Professor Zündapp",
+        "possibleAnswer1" : "Miles Axlerod",
+        "possibleAnswer2" : "Chick Hicks",
+        "possibleAnswer3" : "Francisco Bernoulli",
+        "value": 300,
+        "category_id": 13579
+    },
+    {
+        "id": 4,
+        "question": "Who voices Lightning McQueen in the Cars movies?",
+        "answer": "Owen Wilson",
+        "possibleAnswer1" : "Tom Hanks",
+        "possibleAnswer2" : "Tim Allen",
+        "possibleAnswer3" : "Brad Pitt",
+        "value": 400,
+        "category_id": 13579
+    },
+    {
+        "id": 5,
+        "question": "What is the name of the blue car that serves as McQueen's pit crew chief in Cars?",
+        "answer": "Sarge",
+        "possibleAnswer1" : "Fillmore",
+        "possibleAnswer2" : "Ramone",
+        "possibleAnswer3" : "Guido",
+        "value": 500,
+        "category_id": 13579
+    }
+    ]
+}
